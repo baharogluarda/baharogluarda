@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fjava-studio-shot-no-people-copy-space-indoors-black-background-wallpaper-chcfo&psig=AOvVaw1bn47xAt7fSL2h7Wk30ZvR&ust=1720614335944000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDKuoX6mYcDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Arda Baharoglu</h1>
 <h3 align="center">A passionate Java developer from Turkey</h3>
 
