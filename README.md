@@ -39,9 +39,9 @@ Check out my repositories on my [**GitHub**](https://github.com/baharogluarda?ta
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/baharogluarda" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://www.hackerrank.com/baharogluarda" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/baharogluarda" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/baharogluarda-frontend-developer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.hackerrank.com/profile/arda_900bhrgl" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/baharogluarda" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
