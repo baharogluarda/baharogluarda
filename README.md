@@ -2,7 +2,7 @@
 <h3 align="center">🎨 Frontend Developer | Java Enthusiast | UI/UX Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+%7C+JavaScript;UI%2FUX+Enthusiast+%7C+Responsive+Design;Java+Backend+Support" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+%7C+JavaScript;UI%2FUX+Enthusiast+%7C+Responsive+Design;Java+Backend+Support" alt="Typing SVG" />
 </p>
 
 ---
