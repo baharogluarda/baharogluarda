@@ -60,4 +60,3 @@ Check out my repositories on my [**GitHub**](https://github.com/baharogluarda?ta
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=baharogluarda&theme=onedark&column=4" />
 </p>
-
