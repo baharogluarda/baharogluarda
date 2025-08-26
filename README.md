@@ -1,13 +1,12 @@
 <h1 align="center">Arda Baharoğlu</h1>
-<h3 align="center">Frontend Developer | Java Enthusiast</h3>
+<h3 align="center">Frontend Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - Frontend developer focused on **building modern, responsive, and accessible web applications**.  
-- Skilled in **React, JavaScript (ES6+), HTML5, CSS3 (Flexbox & Grid)**.  
-- Experience integrating **frontend applications with Java-based backend APIs**.  
-- Currently learning **advanced frontend frameworks** and **PostgreSQL**.  
+- Skilled in **React, NextJS JavaScript (ES6+), HTML5, CSS3 (Flexbox & Grid)**.  
+- Currently learning **advanced frontend frameworks** and **TypeScript**.  
 - 📫 Reach me at: **arda.900bhrgl@gmail.com**
 
 ---
@@ -16,7 +15,6 @@
 Explore my repositories on [**GitHub**](https://github.com/baharogluarda?tab=repositories).  
 Selected areas of focus:
 - **UI/UX-driven applications**  
-- **JavaScript performance optimization**  
 - **Responsive design implementations**
 
 ---
