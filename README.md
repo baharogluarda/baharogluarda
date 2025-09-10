@@ -50,3 +50,4 @@ Selected areas of focus:
 
 ### 🏆 Recognition
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=baharogluarda&theme=onedark&column=4" /> </p>
+
