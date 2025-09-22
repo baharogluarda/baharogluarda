@@ -19,7 +19,7 @@ Selected areas of focus:
 
 ---
 
-<p align="center">🛠️ Technical Skills</p>
+<h2 align="center">🛠️ Technical Skills</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
