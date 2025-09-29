@@ -7,7 +7,7 @@
 - Frontend developer focused on **building modern, responsive, and accessible web applications**.  
 - Skilled in **React, NextJS JavaScript (ES6+), HTML5, CSS3 (Flexbox & Grid)**.  
 - Currently learning **advanced frontend frameworks** and **TypeScript**.  
-- 📫 Reach me at: **arda.900bhrgl@gmail.com**
+- 📫 Reach me at: **ardabaharoglu2@gmail.com**
 
 ---
 
