@@ -1,5 +1,5 @@
 <h1 align="center">Arda Baharoğlu</h1>
-<h3 align="center">Frontend Developer</h3>
+<h2 align="center">Frontend Developer</h2>
 
 ---
 
