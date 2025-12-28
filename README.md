@@ -41,18 +41,21 @@ Selected areas of focus:
 
 ---
 
-### 📊 GitHub Insights
+## 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baharogluarda&show_icons=true&theme=transparent" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baharogluarda&layout=compact&theme=transparent" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baharogluarda&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baharogluarda&layout=compact&theme=dark" height="180" />
 </p>
 
 ---
 
-### 🏆 Recognition
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🏆 Recognition
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baharogluarda&theme=dracula&row=1&column=6" />
+</p>
+
 ---
 
 <picture>
